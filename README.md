@@ -7,6 +7,6 @@
  Practical 1 - Question - 6![Screenshot (20)](https://user-images.githubusercontent.com/110403688/183859358-0d98766e-cc2e-4953-ab61-c2a38f871d97.png)
  Practical 1 - Question - 7![Screenshot (16)](https://user-images.githubusercontent.com/110403688/186212603-fea4675f-dd80-45eb-ba6a-f7441aa2b94c.png)
  Practical 1 - Question - 8![Screenshot (17)](https://user-images.githubusercontent.com/110403688/186213918-94cac65f-7a1f-471a-9031-1f0dde0ad1ca.png)
- Practical 1 - Question - 9
+ Practical 1 - Question - 9![Screenshot (18)](https://user-images.githubusercontent.com/110403688/186216642-44d51693-83da-4faf-99b1-497591e754d4.png)
  Practical 1 - Question - 10
  Practical 1 - Question - 11
