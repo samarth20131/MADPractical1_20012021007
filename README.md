@@ -8,7 +8,8 @@
  Practical 1 - Question - 7![Screenshot (16)](https://user-images.githubusercontent.com/110403688/186212603-fea4675f-dd80-45eb-ba6a-f7441aa2b94c.png)
  Practical 1 - Question - 8![Screenshot (17)](https://user-images.githubusercontent.com/110403688/186213918-94cac65f-7a1f-471a-9031-1f0dde0ad1ca.png)
  Practical 1 - Question - 9![Screenshot (18)](https://user-images.githubusercontent.com/110403688/186216642-44d51693-83da-4faf-99b1-497591e754d4.png)
- Practical 1 - Question - 10![Screenshot (19)](https://user-images.githubusercontent.com/110403688/186218630-e4cfe26c-6347-4b37-ba18-bc7a6e2b31d4.png)
-![Screenshot (20)](https://user-images.githubusercontent.com/110403688/186218656-d75ba59e-d7cb-4c57-acc5-826c3436e33b.png)
+ Practical 1 - Question - 10![Screenshot (19)](https://user-images.githubusercontent.com/110403688/186218921-ac460840-201f-4780-a86e-149df67f87c2.png)
+![Screenshot (20)](https://user-images.githubusercontent.com/110403688/186218942-6a856e57-f114-4f48-8d5e-63d2da2584d3.png)
+
  Practical 1 - Question - 11
 
