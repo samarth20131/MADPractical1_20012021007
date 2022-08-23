@@ -5,7 +5,7 @@
 # Question - 4![Screenshot (18)](https://user-images.githubusercontent.com/110403688/183853795-1b5b330f-48de-4050-a0bd-a8c1e346d8c3.png)
 # Question - 5![Screenshot (19)](https://user-images.githubusercontent.com/110403688/183855779-652c83d7-3884-456b-a242-262abbba7937.png)
 # Question - 6![Screenshot (20)](https://user-images.githubusercontent.com/110403688/183859358-0d98766e-cc2e-4953-ab61-c2a38f871d97.png)
-# Question - 7![Screenshot (15)](https://user-images.githubusercontent.com/110403688/186211227-6ff67a41-cd9a-4cec-b542-60d1cf9143b9.png)
+# Question - 7![Screenshot (16)](https://user-images.githubusercontent.com/110403688/186212603-fea4675f-dd80-45eb-ba6a-f7441aa2b94c.png)
 # Question - 8
 # Question - 9
 # Question - 10
